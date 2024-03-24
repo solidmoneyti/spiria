@@ -590,8 +590,8 @@ button
   border: none;
   letter-spacing: 2px;
   font-size: 12px;
-  background-color: rgb(255, 152, 0);
-  color: rgb(0, 0, 0);
+  background-color: rgb(206, 17, 130);
+  color: rgb(247, 247, 247);
   border-radius: 70px;
   padding: 0 15px 0 50px;
   height: 70px;
@@ -614,7 +614,7 @@ button
   transition: 0.4s cubic-bezier(0, 0, 0.3642, 1);
 }
 .mil-button svg path {
-  fill: rgb(255, 152, 0);
+  fill: rgb(240, 240, 240);
 }
 .mil-button.mil-icon-button {
   padding: 15px;
